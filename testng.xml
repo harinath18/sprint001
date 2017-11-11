@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
   <classes>
-      <class name="skillracks.cucmber.Testrunner"/>
+      <class name="skillracks.Testrunner"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
